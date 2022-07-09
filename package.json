@@ -1,0 +1,22 @@
+{
+  "name": "modelmoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fetch": "^1.1.0",
+    "keypress": "^0.2.1",
+    "node-fetch": "^3.2.6",
+    "selenium-webdriver": "^4.3.1",
+    "upscaler": "^0.12.3",
+    "waifu2x": "^1.0.6",
+    "yaml": "^2.1.1"
+  }
+}

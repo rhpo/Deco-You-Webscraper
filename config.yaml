@@ -1,0 +1,7 @@
+imageLimit: 15
+startingUrl: https://www.decoandyou.com/papel-pintado/1001020013-ottelia-5051001427308.html
+downloadDirectory: ./downloads
+logTXT: ./log.txt
+enablePreview: true
+previewPath: ./preview
+logToFile: true
