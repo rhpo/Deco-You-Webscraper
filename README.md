@@ -9,7 +9,9 @@ npm install
 ```
 
 ## Running:
-``cls && node index.js``
+```shell
+cls && node index.js
+```
   
 ## Configuration:
 Can be found @ config.yaml
