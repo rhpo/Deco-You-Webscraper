@@ -2,7 +2,11 @@
 Downloads all Deco&amp;You.com wallpapers in a random way using a thread discovered by Ramy Hadid.
 
 ## Installation:
-``git clone {this} && cd decoandyou-webscraper && npm install``
+```shell
+git clone https://github.com/rhpo/Deco-You-Webscraper 
+cd Deco-You-Webscraper 
+npm install
+```
 
 ## Running:
 ``cls && node index.js``
